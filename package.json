@@ -1,0 +1,14 @@
+{
+  "name": "node-excersice",
+  "version": "1.0.0",
+  "description": "small excercise to practice to get a node server going",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Andeersson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
